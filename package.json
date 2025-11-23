@@ -1,18 +1,18 @@
 
 {
-  "name": "ARSLAN-MD-PAIR",
+  "name": "Dracula Void de la 3e Division V1-MD-PAIR",
   "version": "1.0.0",
   "description": "A multi-functional WhatsApp bot with web pairing functionality",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ARSLAN-MD",
-    "stop": "pm2 stop ARSLAN-MD",
-    "restart": "pm2 restart ARSLAN-MD",
+    "stop": "pm2 stop Dracula Void de la 3e Division V1",
+    "restart": "pm2 restart Dracula Void de la 3e Division",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Arslan-MD",
+  "author": "Dracula Void de la 3e Division V1",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
